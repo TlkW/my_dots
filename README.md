@@ -1,6 +1,6 @@
 # my_dots
 
-                                                    Preview
+                                                Preview
 
 
 
