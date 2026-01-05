@@ -1,0 +1,95 @@
+//   _____ _____ _____ _____ _____ _____ _____ _____ _____ 
+//  |   __|  _  |   __|_   _|   __|   __|_   _|     |  |  |
+//  |   __|     |__   | | | |   __|   __| | | |   --|     |
+//  |__|  |__|__|_____| |_| |__|  |_____| |_| |_____|__|__|  HYPRLAND
+//
+//  by Bina
+
+
+{
+    "logo": {
+    	"source": "~/.config/fastfetch/a1d52db9567196f6095536b0a3070d02.jpg",
+    	"type": "kitty",
+    	"height": 18,
+    	"padding": {
+    		"top": 0
+    	}
+    },
+   "display": {
+        "separator": " "
+    },
+    "modules": [
+        "break",
+        "break",
+        "break",
+        "break",
+        "break",
+        
+        {
+            "type": "title",
+            "keyWidth": 10
+        },
+        {
+            "type": "custom",
+            "format": "~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        },
+        {
+            "type": "os",
+            "key": "~ ",
+            "keyColor": "34"
+        },
+        {
+            "type": "packages",
+            "format": "{} (apt)",
+            "key": "~ ",
+            "keyColor": "34"
+        },
+        {
+            "type": "shell",
+            "key": "~ ",
+            "keyColor": "34"
+        },
+        {
+            "type": "terminal",
+            "key": "~ ",
+            "keyColor": "34"
+        },
+        {
+            "type": "wm",
+            "key": "~ ",
+            "keyColor": "34"
+        },
+        {
+            "type": "uptime",
+            "key": "~ ",
+            "keyColor": "34"
+        },
+        {
+            "type": "player",
+            "key": "~ ",
+            "keyColor": "34"
+        },
+        {
+            "type": "cpu",
+            "key": "~ ",
+            "keyColor": "34"
+        },
+        {
+            "type": "memory",
+            "key": "~ ",
+            "keyColor": "34"
+        },
+        {
+            "type": "swap",
+            "key": "~ ",
+            "keyColor": "34"
+        },
+        {
+            "type": "disk",
+            "key": "~ ",
+            "keyColor": "34"
+        },
+       
+        "break"
+    ]
+}

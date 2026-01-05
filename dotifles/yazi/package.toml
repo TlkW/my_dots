@@ -1,0 +1,34 @@
+[[plugin.deps]]
+use = "tasnimAlam/thumbnail"
+rev = "50d24b8"
+hash = "59ab6275308202d17e3b5383d03ce5b4"
+
+[[flavor.deps]]
+use = "Mintass/rose-pine"
+rev = "8343340"
+hash = "e2336631865c0f90276dcbc553d532fc"
+
+[[flavor.deps]]
+use = "kalidyasin/yazi-flavors:tokyonight-night"
+rev = "fa19b40"
+hash = "648270973268682226755084692d6dfc"
+
+[[flavor.deps]]
+use = "dangooddd/kanagawa"
+rev = "a0b1d9d"
+hash = "abfb0b2371259b2c8adfc7b617c3d7e5"
+
+[[flavor.deps]]
+use = "BennyOe/tokyo-night"
+rev = "5f56364"
+hash = "c0bf69ad2c44005892d586e9693993c6"
+
+[[flavor.deps]]
+use = "Mintass/rose-pine-moon"
+rev = "aa2d937"
+hash = "97cd4819252cb1a9d0f55daa14e481e"
+
+[[flavor.deps]]
+use = "yazi-rs/flavors:dracula"
+rev = "9276ffa"
+hash = "5d16bf24ca0980168814fc1abd307c07"
